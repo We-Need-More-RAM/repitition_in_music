@@ -3,7 +3,7 @@
 ### Author: Ryan McCall
 
 ## Description: 
-This project aims to visualize the repitition in musiic lyrics and use this to find new features that could be create with this data. This project will also attempt to use these new features and see how they fair as predictors of gtarget variables such genre and year.
+This project aims to visualize the repetition in music lyrics and use this to find new features that could be created with this data. This project will also attempt to use these new features and see how they fare as predictors of target variables such as genre and year.
 
 ## Project Organization
 
